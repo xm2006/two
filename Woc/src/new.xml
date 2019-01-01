@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><users>
+	<user>	
+	<name id="001">李武</name>
+	<sex>男</sex>
+	<age>20岁</age>
+	</user>
+	
+	<user>
+	<name id="002">张哲</name>
+	<sex>男</sex>
+	<age>38岁</age>
+	</user>
+	
+	<user>
+	<name id="003">刘梅</name>
+	<sex>女</sex>
+	<age>13岁</age>
+	</user>
+	
+	<user>
+	<name id="004">吴语</name>
+	<sex>女</sex>
+	<age>34岁</age>
+	</user>
+	
+	<user>
+	<name id="005">齐芳</name>
+	<sex>女</sex>
+	<age>43岁</age>
+	<user/><name name="风云"/></user>
+</users>
